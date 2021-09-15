@@ -1,0 +1,34 @@
+{
+    "quickStart":[
+        {
+            "title":"Let’s take you through the product",
+            "subtext":"Get started with using Locale in your workflows and understand how it fits in to your decision making process",
+            "link":"#",
+            "icon":"play_circle_outline",
+            "icon_color":"rgb(255,201,11)"
+        },
+        {
+            "title":"Let’s take you through the product",
+            "subtext":"Get started with using Locale in your workflows and understand how it fits in to your decision making process",
+            "link":"#",
+            "icon":"book",
+            "icon_color":"rgb(16,199,239)"
+        }
+    ]
+    "changeLog":[
+        {
+            "title":"Let’s take you through the product",
+            "subtext":"Get started with using Locale in your workflows and understand how it fits in to your decision making process",
+            "link":"#",
+            "icon":"play_circle_outline",
+            "icon_color":"rgb(255,201,11)"
+        },
+        {
+            "title":"Let’s take you through the product",
+            "subtext":"Get started with using Locale in your workflows and understand how it fits in to your decision making process",
+            "link":"#",
+            "icon":"book",
+            "icon_color":"rgb(16,199,239)"
+        }
+    ]
+}
