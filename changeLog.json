@@ -9,8 +9,8 @@
             "icon_color":"rgb(255,201,11)"
         },
         {
-            "title":"Let’s take you through the product",
-            "subtext":"Get started with using Locale in your workflows and understand how it fits in to your decision making process",
+            "title":"Learn about locale",
+            "subtext":"Read through our docs and articles to know more about locale and how you can start using it!",
             "link":"https://docs.locale.ai/",
             "button_text":"Read the docs",
             "icon":"book",
