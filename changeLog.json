@@ -47,7 +47,7 @@
             "Like to read? Go ahead and read about how Locale can help you improve your business.",
           "link": "https://docs.locale.ai/",
           "icon": "chrome_reader_mode",
-          "is_external":false
+          "is_external":true
 
         },
         {
@@ -56,7 +56,7 @@
             "Want to binge without guilt on a workday? Binge on us to get better at what you do. ",
           "link": "https://www.youtube.com/watch?v=Juzmg0OaclI",
           "icon": "play_circle_outline",
-          "is_external":false
+          "is_external":true
         },
         {
           "title": "Invite New Members",
@@ -64,7 +64,7 @@
             "Want more people in your organisation to use Locale? Invite them for Free!",
           "link": "/settings/organization",
           "icon": "person_add",
-          "is_external":true
+          "is_external":false
         },
         {
           "title": "The Locale Blog",
@@ -72,7 +72,7 @@
             "Travel through the geospatial space. One-piece at a time. Let us give you some insights.",
           "link": "https://blog.locale.ai/",
           "icon": "library_books",
-          "is_external":false
+          "is_external":true
         }
       ]
 }
