@@ -44,30 +44,35 @@
         {
           "title": "Explore Docs and Guides",
           "description":
-            "Learn about location analytics and other insights to help improve your business.",
-          "link": "#",
-          "icon": "chrome_reader_mode"
+            "Like to read? Go ahead and read about how Locale can help you improve your business.",
+          "link": "https://docs.locale.ai/",
+          "icon": "chrome_reader_mode",
+          "is_external":false
+
         },
         {
           "title": "Watch Tuorials and Videos",
           "description":
-            "Learn about location analytics and other insights to help improve your business.",
-          "link": "#",
-          "icon": "play_circle_outline"
+            "Want to binge without guilt on a workday? Binge on us to get better at what you do. ",
+          "link": "https://www.youtube.com/watch?v=Juzmg0OaclI",
+          "icon": "play_circle_outline",
+          "is_external":false
         },
         {
-          "title": "Explore Docs and Guides",
+          "title": "Invite New Members",
           "description":
-            "Learn about location analytics and other insights to help improve your business",
-          "link": "#",
-          "icon": "groups"
+            "Want more people in your organisation to use Locale? Invite them for Free!",
+          "link": "/settings/organization",
+          "icon": "person_add",
+          "is_external":true
         },
         {
-          "title": "Talk to a human",
+          "title": "The Locale Blog",
           "description":
-            "Learn about location analytics and other insights to help improve your business",
-          "link": "#",
-          "icon": "chat"
+            "Travel through the geospatial space. One-piece at a time. Let us give you some insights.",
+          "link": "https://blog.locale.ai/",
+          "icon": "library_books",
+          "is_external":false
         }
       ]
 }
