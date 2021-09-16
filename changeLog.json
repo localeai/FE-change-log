@@ -39,5 +39,35 @@
             "icon_color":"rgb(16,199,239)",
             "button_text":"Read more"
         }
-    ]
+    ],
+    "exploreLocale": [
+        {
+          "title": "Explore Docs and Guides",
+          "description":
+            "Learn about location analytics and other insights to help improve your business.",
+          "link": "#",
+          "icon": "chrome_reader_mode"
+        },
+        {
+          "title": "Watch Tuorials and Videos",
+          "description":
+            "Learn about location analytics and other insights to help improve your business.",
+          "link": "#",
+          "icon": "play_circle_outline"
+        },
+        {
+          "title": "Explore Docs and Guides",
+          "description":
+            "Learn about location analytics and other insights to help improve your business",
+          "link": "#",
+          "icon": "groups"
+        },
+        {
+          "title": "Talk to a human",
+          "description":
+            "Learn about location analytics and other insights to help improve your business",
+          "link": "#",
+          "icon": "chat"
+        }
+      ]
 }
