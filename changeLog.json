@@ -1,78 +1,78 @@
 {
-    "quickStart":[
-        {
-            "title":"Let’s take you through the product",
-            "subtext":"Get started with using Locale in your workflows and understand how it fits in to your decision making process",
-            "link":"https://www.youtube.com/watch?v=Juzmg0OaclI",
-            "button_text":"Watch the video",
-            "icon":"play_circle_outline",
-            "icon_color":"rgb(255,201,11)",
-            "icon_back_color":"rgba(255,201,11,0.1)"
-        },
-        {
-            "title":"Learn about locale",
-            "subtext":"Read through our docs and articles to know more about locale and how you can start using it!",
-            "link":"https://docs.locale.ai/",
-            "button_text":"Read the docs",
-            "icon":"book",
-            "icon_color":"rgb(16,199,239)",
-            "icon_back_color":"rgba(16,199,239,0.1)"
-
-        }
-    ],
-    "changeLog":[
-        {
-            "title":"Feature Release: Clusters",
-            "subtext":"With clusters, you can now monitor and take actions in your focus areas filtered on multiple metrics.",
-            "link":"https://www.youtube.com/watch?v=bcmXL2Wu_g0",
-            "imageLink":"https://user-images.githubusercontent.com/36099616/133554761-202ddf84-90ae-4375-8200-25e172bb6d7b.png",
-            "icon":"play_circle_outline",
-            "icon_color":"rgb(255,201,11)",
-            "button_text":"Watch the video"
-        },
-        {
-            "title":"Locale is Now 100x Faster & comes with a New and Improved UI",
-            "subtext":"We at Locale are thrilled to announce a major product update. Our product is now 100x faster than it used to be. You heard it right: 100x FASTER!!! ",
-            "link":"https://changelog.locale.ai/63ac060f-8218-43b3-8c65-16c9a097fd82",
-            "imageLink":"https://user-images.githubusercontent.com/36099616/133555223-605f5818-eefe-43ce-ac8b-7442a10d7889.jpg",
-            "icon":"book",
-            "icon_color":"rgb(16,199,239)",
-            "button_text":"Read more"
-        }
-    ],
-    "exploreLocale": [
-        {
-          "title": "Explore Docs and Guides",
-          "description":
-            "Like to read? Go ahead and read about how Locale can help you improve your business.",
-          "link": "https://docs.locale.ai/",
-          "icon": "chrome_reader_mode",
-          "is_external":true
-
-        },
-        {
-          "title": "Watch Tuorials and Videos",
-          "description":
-            "Want to binge without guilt on a workday? Binge on us to get better at what you do. ",
-          "link": "https://www.youtube.com/watch?v=Juzmg0OaclI",
-          "icon": "play_circle_outline",
-          "is_external":true
-        },
-        {
-          "title": "Invite New Members",
-          "description":
-            "Want more people in your organisation to use Locale? Invite them for Free!",
-          "link": "/settings/organization/invite",
-          "icon": "person_add",
-          "is_external":false
-        },
-        {
-          "title": "The Locale Blog",
-          "description":
-            "Travel through the geospatial space. One-piece at a time. Let us give you some insights.",
-          "link": "https://blog.locale.ai/",
-          "icon": "library_books",
-          "is_external":true
-        }
-      ]
+  "quickStart": [
+    {
+      "title": "Let’s take you through the product",
+      "subtext": "Get started with using Locale in your workflows and understand how it fits in to your decision making process",
+      "link": "https://www.youtube.com/watch?v=Juzmg0OaclI",
+      "button_text": "Watch the video",
+      "icon": "play_circle_outline",
+      "icon_color": "rgb(255,201,11)",
+      "icon_back_color": "rgba(255,201,11,0.1)",
+      "trackSegment": "WATCH_VIDEO_CLICKED"
+    },
+    {
+      "title": "Learn about locale",
+      "subtext": "Read through our docs and articles to know more about locale and how you can start using it!",
+      "link": "https://docs.locale.ai/",
+      "button_text": "Read the docs",
+      "icon": "book",
+      "icon_color": "rgb(16,199,239)",
+      "icon_back_color": "rgba(16,199,239,0.1)",
+      "trackSegment": "READ_DOCS_CLICKED"
+    }
+  ],
+  "changeLog": [
+    {
+      "title": "Feature Release: Clusters",
+      "subtext": "With clusters, you can now monitor and take actions in your focus areas filtered on multiple metrics.",
+      "link": "https://www.youtube.com/watch?v=bcmXL2Wu_g0",
+      "imageLink": "https://user-images.githubusercontent.com/36099616/133554761-202ddf84-90ae-4375-8200-25e172bb6d7b.png",
+      "icon": "play_circle_outline",
+      "icon_color": "rgb(255,201,11)",
+      "button_text": "Watch the video"
+    },
+    {
+      "title": "Locale is Now 100x Faster & comes with a New and Improved UI",
+      "subtext": "We at Locale are thrilled to announce a major product update. Our product is now 100x faster than it used to be. You heard it right: 100x FASTER!!! ",
+      "link": "https://changelog.locale.ai/63ac060f-8218-43b3-8c65-16c9a097fd82",
+      "imageLink": "https://user-images.githubusercontent.com/36099616/133555223-605f5818-eefe-43ce-ac8b-7442a10d7889.jpg",
+      "icon": "book",
+      "icon_color": "rgb(16,199,239)",
+      "button_text": "Read more"
+    }
+  ],
+  "exploreLocale": [
+    {
+      "title": "Explore Docs and Guides",
+      "description": "Like to read? Go ahead and read about how Locale can help you improve your business.",
+      "link": "https://docs.locale.ai/",
+      "icon": "chrome_reader_mode",
+      "is_external": true,
+      "trackSegment": "EXPLORE_DOCS_AND_GUIDES_CLICKED"
+    },
+    {
+      "title": "Watch Tuorials and Videos",
+      "description": "Want to binge without guilt on a workday? Binge on us to get better at what you do. ",
+      "link": "https://www.youtube.com/watch?v=Juzmg0OaclI",
+      "icon": "play_circle_outline",
+      "is_external": true,
+      "trackSegment": "WATCH_TUTORIALS_AND_VIDEOS_CLICKED"
+    },
+    {
+      "title": "Invite New Members",
+      "description": "Want more people in your organisation to use Locale? Invite them for Free!",
+      "link": "/settings/organization/invite",
+      "icon": "person_add",
+      "is_external": false,
+      "trackSegment": "HOME_INVITE_MEMBERS_CLICKED"
+    },
+    {
+      "title": "The Locale Blog",
+      "description": "Travel through the geospatial space. One-piece at a time. Let us give you some insights.",
+      "link": "https://blog.locale.ai/",
+      "icon": "library_books",
+      "is_external": true,
+      "trackSegment": "HOME_LOCALE_BLOG_CLICKED"
+    }
+  ]
 }
