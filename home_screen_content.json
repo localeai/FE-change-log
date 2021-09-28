@@ -1,7 +1,7 @@
 {
   "quickStart": [
     {
-      "title": "Let’s take you through the product",
+      "title": "Let us take you through the product.",
       "subtext": "Get started with using Locale in your workflows and understand how it fits in to your decision making process",
       "link": "https://www.youtube.com/watch?v=Juzmg0OaclI",
       "button_text": "Watch the video",
@@ -11,7 +11,7 @@
       "trackSegment": "WATCH_VIDEO_CLICKED"
     },
     {
-      "title": "Learn about locale",
+      "title": "Learn about locale.",
       "subtext": "Read through our docs and articles to know more about locale and how you can start using it!",
       "link": "https://docs.locale.ai/",
       "button_text": "Read the docs",
@@ -32,7 +32,7 @@
       "button_text": "Watch the video"
     },
     {
-      "title": "Locale is Now 100x Faster & comes with a New and Improved UI",
+      "title": "Locale is Now 100x Faster & comes with a New and Improved UI.",
       "subtext": "We at Locale are thrilled to announce a major product update. Our product is now 100x faster than it used to be. You heard it right: 100x FASTER!!! ",
       "link": "https://changelog.locale.ai/63ac060f-8218-43b3-8c65-16c9a097fd82",
       "imageLink": "https://user-images.githubusercontent.com/36099616/133555223-605f5818-eefe-43ce-ac8b-7442a10d7889.jpg",
@@ -43,7 +43,7 @@
   ],
   "exploreLocale": [
     {
-      "title": "Explore Docs and Guides",
+      "title": "Explore Docs and Guides.",
       "description": "Like to read? Go ahead and read about how Locale can help you improve your business.",
       "link": "https://docs.locale.ai/",
       "icon": "chrome_reader_mode",
@@ -51,7 +51,7 @@
       "trackSegment": "EXPLORE_DOCS_AND_GUIDES_CLICKED"
     },
     {
-      "title": "Watch Tuorials and Videos",
+      "title": "Watch Tuorials and Videos.",
       "description": "Want to binge without guilt on a workday? Binge on us to get better at what you do. ",
       "link": "https://www.youtube.com/watch?v=Juzmg0OaclI",
       "icon": "play_circle_outline",
