@@ -44,7 +44,7 @@
   "exploreLocale": [
     {
       "title": "Explore Docs and Guides",
-      "description": "Like to read? Go ahead and read about how Locale can help you improve your business.",
+      "description": "Learn how to leverage the Locale platform to achieve operational efficiency.",
       "link": "https://docs.locale.ai/",
       "icon": "chrome_reader_mode",
       "is_external": true,
@@ -52,7 +52,7 @@
     },
     {
       "title": "Watch Tuorials and Videos",
-      "description": "Want to binge without guilt on a workday? Binge on us to get better at what you do. ",
+      "description": "We'll walk you through the process of setting up Locale for your company. Let's get started!",
       "link": "https://www.youtube.com/watch?v=Juzmg0OaclI",
       "icon": "play_circle_outline",
       "is_external": true,
@@ -60,7 +60,7 @@
     },
     {
       "title": "Invite New Members",
-      "description": "Want more people in your organisation to use Locale? Invite them for Free!",
+      "description": "Get more people in your team on Locale to collaborate and work together. Invite them here!",
       "link": "/settings/organization/invite",
       "icon": "person_add",
       "is_external": false,
