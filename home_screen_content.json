@@ -61,7 +61,7 @@
     {
       "title": "Invite New Members",
       "description": "Want more people in your organisation to use Locale? Invite them for Free!",
-      "link": "/settings/organization/invite",
+      "link": "/settings/organization?invite=true",
       "icon": "person_add",
       "is_external": false,
       "trackSegment": "HOME_INVITE_MEMBERS_CLICKED"
