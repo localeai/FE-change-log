@@ -22,6 +22,15 @@
     }
   ],
   "changeLog": [
+      {
+      "title": "Discover Actionability: Workflows(Beta)",
+      "subtext": "Now you can take actions from Locale. Currently we support only slack messages. More to come soon.",
+      "link": "https://changelog.locale.ai/feature-release-workflows",
+      "imageLink": "https://user-images.githubusercontent.com/53584487/143821564-ce25c918-2a27-431e-b67b-2f30383726d3.png",
+      "icon": "book",
+      "icon_color": "rgb(16,199,239)",
+      "button_text": "Read more"
+    },
     {
       "title": "Feature Release: Clusters",
       "subtext": "With clusters, you can now monitor and take actions in your focus areas filtered on multiple metrics.",
@@ -30,16 +39,8 @@
       "icon": "play_circle_outline",
       "icon_color": "rgb(255,201,11)",
       "button_text": "Watch the video"
-    },
-    {
-      "title": "Locale is Now 100x Faster & comes with a New and Improved UI",
-      "subtext": "We at Locale are thrilled to announce a major product update. Our product is now 100x faster than it used to be. You heard it right: 100x FASTER!!! ",
-      "link": "https://changelog.locale.ai/63ac060f-8218-43b3-8c65-16c9a097fd82",
-      "imageLink": "https://user-images.githubusercontent.com/36099616/133555223-605f5818-eefe-43ce-ac8b-7442a10d7889.jpg",
-      "icon": "book",
-      "icon_color": "rgb(16,199,239)",
-      "button_text": "Read more"
     }
+  
   ],
   "exploreLocale": [
     {
