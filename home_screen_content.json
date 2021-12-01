@@ -25,7 +25,7 @@
       {
       "title": "Discover Actionability: Workflows(Beta)",
       "subtext": "Now you can take actions from Locale. Currently we support only slack messages. More to come soon.",
-      "link": "https://changelog.locale.ai/feature-release-workflows",
+      "link": "https://docs.locale.ai/actioning/workflows",
       "imageLink": "https://user-images.githubusercontent.com/53584487/143821564-ce25c918-2a27-431e-b67b-2f30383726d3.png",
       "icon": "book",
       "icon_color": "rgb(16,199,239)",
