@@ -23,22 +23,22 @@
   ],
   "changeLog": [
       {
-      "title": "Discover Actionability: Workflows(Beta)",
-      "subtext": "Now you can take actions from Locale. Currently we support only slack messages. More to come soon.",
-      "link": "https://changelog.locale.ai/feature-release-workflows",
-      "imageLink": "https://user-images.githubusercontent.com/53584487/143821564-ce25c918-2a27-431e-b67b-2f30383726d3.png",
+      "title": "Custom Shape Filters",
+      "subtext": "With our new Shape filters, you can draw polygons to filter data just for the specific area on Hex-Heatmap consoles.",
+      "link": "https://changelog.locale.ai/custom-shape-filters-for-better-area-analysis",
+      "imageLink": "https://user-images.githubusercontent.com/98889350/152158305-e554bbbf-311e-49f8-bf98-f336619537ea.png",
       "icon": "book",
       "icon_color": "rgb(16,199,239)",
       "button_text": "Read more"
     },
     {
-      "title": "Feature Release: Clusters",
-      "subtext": "With clusters, you can now monitor and take actions in your focus areas filtered on multiple metrics.",
-      "link": "https://www.youtube.com/watch?v=bcmXL2Wu_g0",
-      "imageLink": "https://user-images.githubusercontent.com/36099616/133554761-202ddf84-90ae-4375-8200-25e172bb6d7b.png",
+      "title": "Latest location map on Entity consoles",
+      "subtext": "You will now be able to view the latest location of your entities in a map and analyze them better.",
+      "link": "https://changelog.locale.ai/latest-location-map-and-other-goodies-on-entity-lookup-consoles",
+      "imageLink": "https://user-images.githubusercontent.com/98889350/152158499-360c0e1a-6227-486b-a027-facb2eeee693.png",
       "icon": "play_circle_outline",
       "icon_color": "rgb(255,201,11)",
-      "button_text": "Watch the video"
+      "button_text": "Read more"
     }
   
   ],
